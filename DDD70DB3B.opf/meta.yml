@@ -1,0 +1,22 @@
+id: DDD70DB3B
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T06:36:29+00:00'
+last_modified: '2022-05-29T08:22:37.055762+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    999e:
+      image_group_id: I1PD95921
+      title: ཐེག་པ་ཆེན་པོ་བསྡུས་པ།
+      total_pages: 1774
+      order: 76
+      base_file: 999e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
